@@ -19,6 +19,6 @@ University of Cambridge, St John's College, Divinity School, Lightfoot Room**
 - 5 Nov   Camilla Nord (Neuroscience, Cam)            What is Computational Psychiatry?
 - 26 Nov  Tim Dalgleish (Clinical Psychology, Cam)    Transdiagnositc Approaches to Mental Health - Progress and Challenges
 
-*Organised by 
+*Organised by  
 Tanay Katiyar (MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, University of Cambridge)
 Johanna Silva-Stüger (History and Philosophy of Science, University of Cambridge)*
