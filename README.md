@@ -1,4 +1,4 @@
-theme: Architect
+theme: jekyll-theme-minimal
 
 # Bridging Mental Health Network
 The Bridging Mental Health Network is a recently founded initiative aiming to promote interdisciplinary exchange of mental health research undertaken at the University of Cambridge. 
