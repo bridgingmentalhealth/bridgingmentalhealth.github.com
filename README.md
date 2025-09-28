@@ -1,3 +1,4 @@
+<img src="/Users/johannastuger/Desktop/Bridging Mental Health Logo.jpg" alt="A description of the image">
 # Bridging Mental Health Network
 The Bridging Mental Health Network is a recently founded initiative aiming to promote interdisciplinary exchange of mental health research undertaken at the University of Cambridge. We connect researchers from disciplines such as psychiatry, psychology, social and evolutionary anthropology, literary studies, evolutionary psychiatry, sociology, history and philosophy of science, education and public health. We provide a space to bridge disciplinary boundaries, advancing foundational debates about mental health and promoting the cross-fertilization of ideas.
 
