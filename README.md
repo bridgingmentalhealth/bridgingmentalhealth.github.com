@@ -7,7 +7,7 @@ This academic year, the network is  launching a series of six interdisciplinary 
 
 All are welcome!
 
-> [!IMPORTANT][Venue]
+> [!IMPORTANT]
 > **Venue**   
 > Wednesdays 5.30 - 6.30 PM   
 > Lightfoot Room, Old Divinity School   
