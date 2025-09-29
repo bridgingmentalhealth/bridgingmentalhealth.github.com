@@ -3,10 +3,14 @@
 The Bridging Mental Health Network is a recently founded initiative aiming to promote interdisciplinary exchange of mental health research undertaken at the University of Cambridge. We connect researchers from disciplines such as psychiatry, psychology, social and evolutionary anthropology, literary studies, evolutionary psychiatry, sociology, history and philosophy of science, education and public health. We provide a space to bridge disciplinary boundaries, advancing foundational debates about mental health and promoting the cross-fertilization of ideas.
 
 ## Academic Year 2025-2026
-This academic year (2025-2026), the network is  launching a series of six interdisciplinary talks. Each term will feature two talks under a broad common theme from speakers bringing different disciplinary perspectives.
+This academic year, the network is  launching a series of six interdisciplinary talks. Each term will feature two talks under a broad common theme from speakers bringing different disciplinary perspectives.   
 
-**Wednesdays 5.30 - 6.30 PM
-University of Cambridge, St John's College, Divinity School, Lightfoot Room**
+All are welcome!
+
+> [!NOTE]  
+> Wednesdays 5.30 - 6.30 PM
+> Lightfoot Room, Old Divinity School
+> St John's College, University of Cambridge
 
 ### Michaelmas Term: Defining and Measuring Mental Health
 - 5 Nov:   Anna Alexandrova (Philosophy of Science, University of Cambridge) and Sebastian Rodriguez Duque (Philosophy, McGill University)  
