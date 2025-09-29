@@ -37,5 +37,5 @@ St John's College, University of Cambridge
   History and Philosophy of Science, Christ's College, University of Cambridge
 
 ## Flyer
-We welcome distribution of flyers in your departments and colleges around Cambridge. 
+We welcome distribution of flyers in your departments and colleges around Cambridge.    
 PRINTABLE PDF
