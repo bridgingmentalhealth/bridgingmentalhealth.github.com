@@ -27,7 +27,7 @@ University of Cambridge, St John's College, Divinity School, Lightfoot Room**
   *Transdiagnositc Approaches to Mental Health - Progress and Challenges*
 
 ## Organisation and Contact Details  
-- Tanay Katiyar, *Tanay.Katiyar@mrc-cbu.cam.ac.uk*
+- Tanay Katiyar, *Tanay.Katiyar@mrc-cbu.cam.ac.uk*   
   MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, St. John's College, University of Cambridge  
-- Johanna Silva-Stüger, *js2918@cam.ac.uk*
+- Johanna Silva-Stüger, *js2918@cam.ac.uk*   
   History and Philosophy of Science, Christ's College, University of Cambridge
