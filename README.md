@@ -7,10 +7,10 @@ This academic year, the network is  launching a series of six interdisciplinary 
 
 All are welcome!
 
-> **Venue**   
-> Wednesdays 5.30 - 6.30 PM   
-> Lightfoot Room, Old Divinity School   
-> St John's College, University of Cambridge
+#### Venue   
+Wednesdays 5.30 - 6.30 PM   
+Lightfoot Room, Old Divinity School   
+St John's College, University of Cambridge
 
 ### Michaelmas Term: Defining and Measuring Mental Health
 - 5 Nov:   Anna Alexandrova (Philosophy of Science, University of Cambridge) and Sebastian Rodriguez Duque (Philosophy, McGill University)  
