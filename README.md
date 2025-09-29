@@ -16,7 +16,7 @@ University of Cambridge, St John's College, Divinity School, Lightfoot Room**
 
 ### Lent Term: Cross-Cultural and Ethnographic Perspectives on Mental Health
 - 25 Feb:   Sarah Marks (History, Birbeck University of London)  
-  *History of Nature/Nurture Debates in Mental Health Science*
+  *Nature/Nuture in Historical Perspective: The Case of Intergenerational Trauma*
 - 26 Nov:   Mikkel Kenni Bruun (Social Anthropology, University of Cambridge)  
   *Beyond the 'Cross-Cultural': Thinking Ethnographically About Mental Health*
 
@@ -26,6 +26,6 @@ University of Cambridge, St John's College, Divinity School, Lightfoot Room**
 - 26 Nov:  Tim Dalgleish (Clinical Psychology, University of Cambridge)  
   *Transdiagnositc Approaches to Mental Health - Progress and Challenges*
 
-***Organised by***  
-*Tanay Katiyar (MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, University of Cambridge)  
-Johanna Silva-Stüger (History and Philosophy of Science, University of Cambridge)*
+***Organisation and Contact Details***  
+*Tanay Katiyar, Tanay.Katiyar@mrc-cbu.cam.ac.uk (MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, University of Cambridge)  
+Johanna Silva-Stüger, JS2918@cam.ac.uk (History and Philosophy of Science, University of Cambridge)*
