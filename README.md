@@ -26,6 +26,8 @@ University of Cambridge, St John's College, Divinity School, Lightfoot Room**
 - 26 Nov:  Tim Dalgleish (Clinical Psychology, University of Cambridge)  
   *Transdiagnositc Approaches to Mental Health - Progress and Challenges*
 
-***Organisation and Contact Details***  
-*Tanay Katiyar, Tanay.Katiyar@mrc-cbu.cam.ac.uk (MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, University of Cambridge)  
-Johanna Silva-Stüger, JS2918@cam.ac.uk (History and Philosophy of Science, University of Cambridge)*
+## Organisation and Contact Details  
+- Tanay Katiyar, *Tanay.Katiyar@mrc-cbu.cam.ac.uk*
+  MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, St. John's College, University of Cambridge  
+- Johanna Silva-Stüger, *js2918@cam.ac.uk*
+  History and Philosophy of Science, Christ's College, University of Cambridge
