@@ -7,7 +7,7 @@ This academic year, the network is  launching a series of six interdisciplinary 
 
 All are welcome!
 
-#### Venue   
+**Venue**   
 Wednesdays 5.30 - 6.30 PM   
 Lightfoot Room, Old Divinity School   
 St John's College, University of Cambridge
