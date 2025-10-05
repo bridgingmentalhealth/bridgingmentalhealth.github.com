@@ -36,7 +36,8 @@ St John's College, University of Cambridge
 - Tanay Katiyar, *Tanay.Katiyar@mrc-cbu.cam.ac.uk*   
   MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, St. John's College, University of Cambridge  
 - Johanna Silva-Stüger, *js2918@cam.ac.uk*   
-  History and Philosophy of Science, Christ's College, University of Cambridge
+  History and Philosophy of Science, Christ's College, University of Cambridge   
+  ![image alt] (bridgingmentalhealth/pictures/DSC06236.JPG)
 
 ## Flyer
 We welcome distribution of flyers in your departments and colleges around Cambridge.    
