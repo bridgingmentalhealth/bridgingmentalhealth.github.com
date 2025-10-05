@@ -38,7 +38,7 @@ St John's College, University of Cambridge
   ![image alt](https://github.com/bridgingmentalhealth/bridgingmentalhealth.github.com/blob/f180d8e82458a4e3d539813b3586542c54cf5d51/pictures/Subject.jpeg)   
 - Johanna Silva-Stüger, *js2918@cam.ac.uk*   
   History and Philosophy of Science, Christ's College, University of Cambridge   
-  ![image alt](/bridgingmentalhealth/pictures/DSC06236.jpg)
+  ![image alt](https://github.com/bridgingmentalhealth/bridgingmentalhealth.github.com/blob/133f41b15c4744e64c2d4de4f837a765510be670/pictures/DSC06236.png)
 
 ## Flyer
 We welcome distribution of flyers in your departments and colleges around Cambridge.    
