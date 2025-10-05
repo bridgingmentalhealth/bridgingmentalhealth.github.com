@@ -37,7 +37,7 @@ St John's College, University of Cambridge
   MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, St. John's College, University of Cambridge  
 - Johanna Silva-Stüger, *js2918@cam.ac.uk*   
   History and Philosophy of Science, Christ's College, University of Cambridge   
-  ![image alt] (https://github.com/bridgingmentalhealth/bridgingmentalhealth.github.com/blob/6359fed279c9e6cf00c1036f9f41b0b7e8735d1a/pictures/DSC06236.JPG))
+  ![image alt] (https://github.com/bridgingmentalhealth/bridgingmentalhealth.github.com/blob/6359fed279c9e6cf00c1036f9f41b0b7e8735d1a/pictures/DSC06236.JPG)
 
 ## Flyer
 We welcome distribution of flyers in your departments and colleges around Cambridge.    
