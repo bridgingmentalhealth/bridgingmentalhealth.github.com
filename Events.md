@@ -14,6 +14,8 @@ Wednesdays 5.30 - 6.30 PM
 Lightfoot Room, Old Divinity School   
 St John's College, University of Cambridge
 
+![image alt](https://github.com/bridgingmentalhealth/bridgingmentalhealth.github.com/blob/f36ccfd3cca90072ec133d846a72b437d95bf464/pictures/2.png)
+
 ### Michaelmas Term: Defining and Measuring Mental Health
 - 5 Nov:   Anna Alexandrova *(University of Cambridge)* and Sebastian Rodriguez Duque *(McGill University)*  
   **Why Mental Health Is Hard To Measure**
