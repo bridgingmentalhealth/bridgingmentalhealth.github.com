@@ -28,7 +28,7 @@ St John's College, University of Cambridge
 
 ### Easter Term: Charting the Terrain - Nosology, Diagnosis, and Beyond
 - 27 May:   Camilla Nord *(Neuroscience, University of Cambridge)*  
-  *What is Computational Psychiatry?*
+  **What is Computational Psychiatry?**
 - 17 Jun:  Tim Dalgleish *(Clinical Psychology, University of Cambridge)*  
   **Transdiagnositc Approaches to Mental Health - Progress and Challenges**
 
