@@ -1,3 +1,8 @@
+---
+layout: page
+title: Events
+permalink: /events/
+---
 # Events
 
 ## Academic Year 2025/2026   
