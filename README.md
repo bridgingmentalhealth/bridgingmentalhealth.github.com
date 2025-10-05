@@ -15,21 +15,21 @@ Lightfoot Room, Old Divinity School
 St John's College, University of Cambridge
 
 ### Michaelmas Term: Defining and Measuring Mental Health
-- 5 Nov:   Anna Alexandrova (Philosophy of Science, University of Cambridge) and Sebastian Rodriguez Duque (Philosophy, McGill University)  
+- 5 Nov:   **Anna Alexandrova** (Philosophy of Science, University of Cambridge) and Sebastian Rodriguez Duque (Philosophy, McGill University)  
   *Why Mental Health Is Hard To Measure*
-- 26 Nov:  Adam Hunt (Biological Anthropology, University of Cambridge)             
+- 26 Nov:  **Adam Hunt** (Biological Anthropology, University of Cambridge)             
   *What Counts As A Mental Dysfunction?*
 
 ### Lent Term: Cross-Cultural and Ethnographic Perspectives on Mental Health
-- 25 Feb:   Sarah Marks (History, Birbeck University of London)  
+- 25 Feb:   **Sarah Marks** (History, Birbeck University of London)  
   *Nature/Nuture in Historical Perspective: The Case of Intergenerational Trauma*
-- 18 Mar:   Mikkel Kenni Bruun (Social Anthropology, University of Cambridge)  
+- 18 Mar:   **Mikkel Kenni Bruun** (Social Anthropology, University of Cambridge)  
   *Beyond the 'Cross-Cultural': Thinking Ethnographically About Mental Health*
 
 ### Easter Term: Charting the Terrain - Nosology, Diagnosis, and Beyond
-- 27 May:   Camilla Nord (Neuroscience, University of Cambridge)  
+- 27 May:   **Camilla Nord** (Neuroscience, University of Cambridge)  
   *What is Computational Psychiatry?*
-- 17 Jun:  Tim Dalgleish (Clinical Psychology, University of Cambridge)  
+- 17 Jun:  **Tim Dalgleish** (Clinical Psychology, University of Cambridge)  
   *Transdiagnositc Approaches to Mental Health - Progress and Challenges*
 
 ## Organisation and Contact Details  
