@@ -34,8 +34,8 @@ St John's College, University of Cambridge
 
 ## Organisation and Contact Details  
 - Tanay Katiyar, *Tanay.Katiyar@mrc-cbu.cam.ac.uk*   
-  MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, St. John's College, University of Cambridge
-  ![image alt](/https://github.com/bridgingmentalhealth/bridgingmentalhealth.github.com/blob/f180d8e82458a4e3d539813b3586542c54cf5d51/pictures/Subject.jpeg)   
+  MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, St. John's College, University of Cambridge   
+  ![image alt](https://github.com/bridgingmentalhealth/bridgingmentalhealth.github.com/blob/f180d8e82458a4e3d539813b3586542c54cf5d51/pictures/Subject.jpeg)   
 - Johanna Silva-Stüger, *js2918@cam.ac.uk*   
   History and Philosophy of Science, Christ's College, University of Cambridge   
   ![image alt](/bridgingmentalhealth/pictures/DSC06236.jpg)
