@@ -37,4 +37,5 @@ St John's College, University of Cambridge
 
 # Flyer
 We welcome distribution of flyers in your departments and colleges around Cambridge.    
-PRINTABLE PDF
+[Download Printable Flyer](/pictures/Bridging Flyer 2025:26 Final Print.pdf)  
+<embed src="/assets/flyer.pdf" type="application/pdf" width="100%" height="600px">
