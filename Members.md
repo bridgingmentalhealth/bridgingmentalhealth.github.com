@@ -1,3 +1,8 @@
+---
+layout: page
+title: Members
+permalink: /members/
+---
 # Network Members
 Coming Soon ...
 
