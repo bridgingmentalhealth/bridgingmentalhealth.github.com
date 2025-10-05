@@ -25,3 +25,8 @@ St John's College, University of Cambridge
   **What is Computational Psychiatry?**
 - 17 Jun:  Tim Dalgleish *(University of Cambridge)*  
   **Transdiagnositc Approaches to Mental Health - Progress and Challenges**
+
+
+# Flyer
+We welcome distribution of flyers in your departments and colleges around Cambridge.    
+PRINTABLE PDF
