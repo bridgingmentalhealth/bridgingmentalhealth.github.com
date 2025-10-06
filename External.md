@@ -14,4 +14,4 @@ This Michaelmas Term 2025, the Philosophy of Medicine Reading Group will be read
 
 Anyone is welcome to attend. We especially invite philosophers, historians, and psychiatrists. 
 
-For more information, please see the [website](https://www.hps.cam.ac.uk/news-events/seminars-reading-groups/philosophy-medicine)
+For more information, please see the [website](https://www.hps.cam.ac.uk/news-events/seminars-reading-groups/philosophy-medicine).
