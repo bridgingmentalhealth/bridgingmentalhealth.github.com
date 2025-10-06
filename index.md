@@ -10,6 +10,7 @@ Each term, we host two events where researchers from different disciplines share
   MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, St. John's College, University of Cambridge   
  <img src="/pictures/Subject.jpeg" alt="image alt" width="200" height="200">   
 - Johanna Silva-Stüger, *js2918@cam.ac.uk*
+
   History and Philosophy of Science, Christ's College, University of Cambridge   
 <img src="/pictures/DSC06236.png" alt="image alt" width="200" height="200">
 
