@@ -7,7 +7,6 @@ Each term, we host two events where researchers from different disciplines share
 
 # Organisation and Contact Details  
 - Tanay Katiyar, *Tanay.Katiyar@mrc-cbu.cam.ac.uk*     
-
   MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, St. John's College, University of Cambridge   
  <img src="/pictures/Subject.jpeg" alt="image alt" width="200" height="200">   
 - Johanna Silva-Stüger, *js2918@cam.ac.uk*     
