@@ -62,7 +62,6 @@ permalink: /members/
 - Zhang, Shijiao - Health, Medicine, and Society
 - [Zaman, Shahid](https://www.psychiatry.cam.ac.uk/people/academic-staff) - Psychiatry
 
-![image alt](https://github.com/bridgingmentalhealth/bridgingmentalhealth.github.com/blob/242b559bf2e14a11d0b9c220af46e0a65226d1a2/pictures/Image.jpeg)
 
 If you are a researcher on Mental Health (broadly construed) and would like to be listed, please enter your details via this
 <a href="https://forms.gle/VsP4cMnh2SWxSjcq8" target="_blank">Google Form</a>.
