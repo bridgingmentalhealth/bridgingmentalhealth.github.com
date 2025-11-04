@@ -41,7 +41,7 @@ permalink: /members/
 
 ## Doctoral Researchers
 
-- [Yasser Alvi] - History
+- Yasser Alvi - History
 - [Luma Bashi](https://www.psychiatry.cam.ac.uk/staff/luma-bashmi) - Psychiatry
 - [Izabele Batkovskyte](https://neuroscience.cam.ac.uk/member/ib477/) - Psychiatry
 - [Ben Chidiac](https://neuroscience.cam.ac.uk/member/bjc71/) - Psychiatry
