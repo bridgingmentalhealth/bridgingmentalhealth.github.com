@@ -4,7 +4,7 @@ title: Members
 permalink: /members/
 ---
 
-## Professors and Postdoctoral Researchers
+## Senior Researchers
 
 - [Lara Abel](https://www.lara-abel.com) - Psychology, Meta-Science, Research Culture
 - [Jo Anderson](attendwell@org.uk) - Psychology
@@ -72,7 +72,7 @@ permalink: /members/
 - Shuwen Yin - Psychiatry
 - [Xiaoning Zhang](https://ruddcentre.com/about-us/meet-the-team/xiaoning-zhang/) - Psychology and Education
 
-## Student Researchers
+## Student Researchers 
 
 - [Charlotte Burdge](https://www.psychiatry.cam.ac.uk/staff/charlotte-burdge) - Psychiatry
 - [Louis Davidson](linkedin.com/in/louis-davidson-4a906b231) - Clinical Psychology, Neuroscience
