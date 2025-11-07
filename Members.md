@@ -44,6 +44,8 @@ permalink: /members/
 - Yasser Alvi - History
 - [Luma Bashi](https://www.psychiatry.cam.ac.uk/staff/luma-bashmi) - Psychiatry
 - [Izabele Batkovskyte](https://neuroscience.cam.ac.uk/member/ib477/) - Psychiatry
+- [Sarah Borges](https://www.gatescambridge.org/about/news/a-mission-to-improve-the-effectiveness-of-mental-health-services/) - Psychiatry
+- [Juliette Bouillon](https://www.hps.cam.ac.uk/directory/bouillon) - History and Philosophy of Science
 - [Ben Chidiac](https://neuroscience.cam.ac.uk/member/bjc71/) - Psychiatry
 - [Tanatswa Amanda Chikaura](https://www.autismresearchcentre.com/people/tanatswa-chikaura/) - Psychiatry
 - [Hannah Clegg](https://www.researchgate.net/profile/Hannah-Clegg-3) - Clinical Neuropsychology
@@ -51,6 +53,7 @@ permalink: /members/
 - Benjamin Davis - Philosophy
 - [Cass Dawson](https://www.phpc.cam.ac.uk/staff/miss-cassandra-dawson) - Psychology
 - [Hayley Gains](https://www.linkedin.com/in/hayley-gains-937569249/) - Psychology
+- [George Gillet](https://georgegillett.com/about/) - Psychiatry, Psychology, Anthropology
 - [Dominique Grohmann](https://www.researchgate.net/profile/Dominique-Grohmann?ev=hdr_xprf) - Psychiatry
 - [Lukas Gunschera](www.lukasgunschera.com) - Psychology
 - [Yuankai He](https://orcid.org/0000-0003-0212-6670) - Psychiatry and Genetics
@@ -64,6 +67,7 @@ permalink: /members/
 - [Aisling Mellon-Whelan](https://www.biomindlab.co.uk/team/) - Psychiatry
 - [William Mills](https://www.mrc-cbu.cam.ac.uk/people/william.mills/) - Cognitive Neuroscience
 - [Alicja Podgorski](https://www.linkedin.com/in/alicja-podgorski-a7798311/) - Clinical Psychology
+- [Millie Preece](https://neuroscience.cam.ac.uk/member/mp905/) - Psychiatry
 - [Filomena Russo](https://www.arct.cam.ac.uk/research/phd-research/filomena-russo) -Architecture and Environmental Psychology
 - [Charlotte Rye](https://neuroscience.cam.ac.uk/member/csr40/) - Psychology
 - [Johanna Silva-Stüger](https://www.hps.cam.ac.uk/directory/silvastuger) - Philosophy of Science, Psychotherapy
@@ -75,6 +79,7 @@ permalink: /members/
 ## Student Researchers 
 
 - [Charlotte Burdge](https://www.psychiatry.cam.ac.uk/staff/charlotte-burdge) - Psychiatry
+- [Alice Cox](https://www.mrc-cbu.cam.ac.uk/people/alice.cox/) - Psychology
 - [Louis Davidson](linkedin.com/in/louis-davidson-4a906b231) - Clinical Psychology, Neuroscience
 - [Diogo Carrazzoni Godoi](https://scholar.google.co.uk/citations?user=7EWJjZYAAAAJ&hl=en) - Psychology
 - Florence Frederick - Sociology
@@ -86,6 +91,7 @@ permalink: /members/
 - Ajua Daniela Ngefac - Psychology
 - Lijing Ouyang - Psychology
 - [Dihini Pilimatalawwe](https://www.phpc.cam.ac.uk/staff/ms-dihini-pilimatalawwe) - Psychology, Health Science
+- [Liberty Wade](https://www.linkedin.com/in/liberty-grace-wade-7378aa219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) - Clinical Psychology
 - [Yuxi Wang](https://www.linkedin.com/in/yuxidaisywang) - Clinical Psychology
 - Shijiao Zhang - Health, Medicine, and Society
 
