@@ -18,4 +18,4 @@ Each term, we host two events where researchers from different disciplines share
 ## Logistics Manager
 - Amlaan Parida, *ap2526@cam.ac.uk*
   History and Philosophy of Science, St. Edmund's College, University of Cambridge
-<img src="/pictures/Parida_Profile.jpg" alt="image alt" width="200" height="200"> 
+<img src="/pictures/Parida Zoom.jpg" alt="image alt" width="200" height="200"> 
