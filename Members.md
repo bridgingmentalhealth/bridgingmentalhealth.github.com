@@ -65,7 +65,7 @@ permalink: /members/
 - Qihua Huang - Foundations of Clinical Psychology
 - [Benjamin Illingworth](https://www.psychiatry.cam.ac.uk/staff/benjamin-illingworth) - Psychiatry
 - [Maria Jelen](https://neuroscience.cam.ac.uk/member/mbj26/) - Neuroscience
-- [Tanay Katiyar](https://www.mrc-cbu.cam.ac.uk/people/tanay.katiyar/) - Cognitive Sciene, Evolutionary Psychiatry, Anthropology
+- [Tanay Katiyar](https://www.mrc-cbu.cam.ac.uk/people/tanay.katiyar/) - Cognitive Science, Evolutionary Psychiatry, Anthropology
 - [Julia Mannes](https://orcid.org/0000-0002-2236-5970) - Public Health and Primary Care
 - [Aisling Mellon-Whelan](https://www.biomindlab.co.uk/team/) - Psychiatry
 - [William Mills](https://www.mrc-cbu.cam.ac.uk/people/william.mills/) - Cognitive Neuroscience
