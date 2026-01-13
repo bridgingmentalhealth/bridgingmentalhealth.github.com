@@ -42,6 +42,7 @@ permalink: /members/
 ## Doctoral Researchers
 
 - Yasser Alvi - History
+- [Matea Balabanovska](https://neuroinformatics.science/team/) - Psychology
 - [Luma Bashi](https://www.psychiatry.cam.ac.uk/staff/luma-bashmi) - Psychiatry
 - [Izabele Batkovskyte](https://neuroscience.cam.ac.uk/member/ib477/) - Psychiatry
 - [Sarah Borges](https://www.gatescambridge.org/about/news/a-mission-to-improve-the-effectiveness-of-mental-health-services/) - Psychiatry
@@ -52,6 +53,7 @@ permalink: /members/
 - [Bella Copley](www.linkedin.com/in/bella-copley-095117239) - Psychiatry
 - Benjamin Davis - Philosophy
 - [Cass Dawson](https://www.phpc.cam.ac.uk/staff/miss-cassandra-dawson) - Psychology
+- [Toby Engelking](https://www.linkedin.com/in/toby-e-7528a510a?utm_source=share_via&utm_content=profile&utm_medium=member_ios) - Neuroscience
 - [Hayley Gains](https://www.linkedin.com/in/hayley-gains-937569249/) - Psychology
 - [George Gillet](https://georgegillett.com/about/) - Psychiatry, Psychology, Anthropology
 - [Dominique Grohmann](https://www.researchgate.net/profile/Dominique-Grohmann?ev=hdr_xprf) - Psychiatry
@@ -59,6 +61,7 @@ permalink: /members/
 - [Yuankai He](https://orcid.org/0000-0003-0212-6670) - Psychiatry and Genetics
 - [Nimrod Hertz](https://scholar.google.co.il/citations?user=vRZbRWsAAAAJ&hl=en&oi=sra) - Clinical Psychology
 - [Alice Hilder Jarvis](alicehilderjarvis.co.uk) - Philosophy
+- [Holly Hodges](https://www.autismresearchcentre.com/people/holly-hodges/) - Psychiatry
 - Qihua Huang - Foundations of Clinical Psychology
 - [Benjamin Illingworth](https://www.psychiatry.cam.ac.uk/staff/benjamin-illingworth) - Psychiatry
 - [Maria Jelen](https://neuroscience.cam.ac.uk/member/mbj26/) - Neuroscience
@@ -66,14 +69,17 @@ permalink: /members/
 - [Julia Mannes](https://orcid.org/0000-0002-2236-5970) - Public Health and Primary Care
 - [Aisling Mellon-Whelan](https://www.biomindlab.co.uk/team/) - Psychiatry
 - [William Mills](https://www.mrc-cbu.cam.ac.uk/people/william.mills/) - Cognitive Neuroscience
+- [Lois Ann Parri](https://www.researchgate.net/profile/Lois-Parri-3) - Psychology
 - [Alicja Podgorski](https://www.linkedin.com/in/alicja-podgorski-a7798311/) - Clinical Psychology
 - [Millie Preece](https://neuroscience.cam.ac.uk/member/mp905/) - Psychiatry
+- [Alice Roe](https://www.mrc-cbu.cam.ac.uk/people/alice.roe/) - Psychology
 - [Filomena Russo](https://www.arct.cam.ac.uk/research/phd-research/filomena-russo) -Architecture and Environmental Psychology
 - [Charlotte Rye](https://neuroscience.cam.ac.uk/member/csr40/) - Psychology
 - [Johanna Silva-Stüger](https://www.hps.cam.ac.uk/directory/silvastuger) - Philosophy of Science, Psychotherapy
 - Robert Scott Taylor - Philosophy
 - [Fan Yang](https://www.phpc.cam.ac.uk/staff/mr-fan-yang) - Public Mental Health
 - Shuwen Yin - Psychiatry
+- [Lily Zhang](https://uk.linkedin.com/in/lily-zhang-8msc) - Psychology
 - [Xiaoning Zhang](https://ruddcentre.com/about-us/meet-the-team/xiaoning-zhang/) - Psychology and Education
 
 ## Student Researchers 
@@ -90,7 +96,10 @@ permalink: /members/
 - [Eve Merriam](https://www.autismresearchcentre.com/people/eve-merriam/) - Psychology
 - Ajua Daniela Ngefac - Psychology
 - Lijing Ouyang - Psychology
+- [Amlaan Parida](https://www.linkedin.com/in/amlaan-parida-47024416a/) - Philosophy, Neuroscience, Psychiatry
 - [Dihini Pilimatalawwe](https://www.phpc.cam.ac.uk/staff/ms-dihini-pilimatalawwe) - Psychology, Health Science
+- [Lea Satala](https://www.linkedin.com/in/lea-satala/) - Psychiatry, Film Studies
+- [Julia Swiatek](https://scholar.google.com/citations?hl=en&user=a7_dhj0AAAAJ) - Psychiatry
 - [Liberty Wade](https://www.linkedin.com/in/liberty-grace-wade-7378aa219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) - Clinical Psychology
 - [Yuxi Wang](https://www.linkedin.com/in/yuxidaisywang) - Clinical Psychology
 - Shijiao Zhang - Health, Medicine, and Society
