@@ -6,3 +6,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+header_pages:
+  - events.md
+  - members.md
+  - external.md
