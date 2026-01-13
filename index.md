@@ -12,16 +12,23 @@ Each term, we host two events where researchers from different disciplines share
   <div style="flex: 1; min-width: 300px;">
     <img src="/pictures/Subject.jpeg" alt="Tanay Katiyar" width="200" height="200">
     <p><strong>Tanay Katiyar</strong>, <em>tk654@cam.ac.uk</em><br>
-    MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, St. John's College, University of Cambridge</p>
+    MRC Cognition and Brain Sciences Unit  
+      Leverhulme Centre for Human Evolutionary Studies  
+      St. John's College  
+      University of Cambridge</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
     <img src="/pictures/DSC06236.png" alt="Johanna Silva-Stüger" width="200" height="200">
     <p><strong>Johanna Silva-Stüger</strong>, <em>js2918@cam.ac.uk</em><br>
-    History and Philosophy of Science, Christ's College, University of Cambridge</p>
+    History and Philosophy of Science  
+      Christ's College  
+      University of Cambridge</p>
   </div>
 </div>
 
 ## Logistics Manager
 - Amlaan Parida, *ap2526@cam.ac.uk*   
-  History and Philosophy of Science, St. Edmund's College, University of Cambridge   
+  History and Philosophy of Science
+  St. Edmund's College
+  University of Cambridge   
 <img src="/pictures/Parida Zoom.jpg" alt="image alt" width="200" height="200"> 
