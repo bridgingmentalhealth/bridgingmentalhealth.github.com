@@ -11,7 +11,7 @@ Each term, we host two events where researchers from different disciplines share
 <div style="display: flex; gap: 40px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
     <img src="/pictures/Subject.jpeg" alt="Tanay Katiyar" width="200" height="200">
-    <p><strong>Tanay Katiyar</strong>, <em>Tanay.Katiyar@mrc-cbu.cam.ac.uk</em><br>
+    <p><strong>Tanay Katiyar</strong>, <em>tk654@cam.ac.uk</em><br>
     MRC Cognition and Brain Sciences Unit and Leverhulme Centre for Human Evolutionary Studies, St. John's College, University of Cambridge</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
