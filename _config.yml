@@ -7,6 +7,6 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - events.md
-  - members.md
-  - external.md
+  - events/index.md
+  - members/index.md
+  - external/index.md
