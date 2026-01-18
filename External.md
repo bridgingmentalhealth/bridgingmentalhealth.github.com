@@ -27,8 +27,7 @@ This opening lecture will examine OCD as a major global mental health challenge,
 Dr Nick Sireau, founder of Orchard OCD, will open the evening with a lived-experience perspective on the personal and societal impact of OCD and the need for improved understanding, research, and treatment.
 Professor Trevor Robbins will then present research on the neural basis of OCD, drawing on decades of work linking brain circuits, cognition, and compulsive behaviour.
 The lecture will conclude with a Q&A session, followed by a drinks and dinner reception.
-👉 Registration via Eventbrite:
-https://OrchardOCRDlectureseries1-OCD.eventbrite.co.uk
+👉 Registration via [Eventbrite](https://OrchardOCRDlectureseries1-OCD.eventbrite.co.uk)
 
 The Orchard OCD Lecture Series is a public-facing programme of evening talks exploring obsessive–compulsive disorder (OCD) and related conditions from scientific, clinical, and lived-experience perspectives. Hosted at St John’s College, University of Cambridge, the series brings together leading researchers, clinicians, charity representatives, and individuals with lived experience to foster informed discussion, challenge misconceptions, and highlight emerging research and treatment avenues. 
 Across six events in 2026, the series will cover topics including the neurobiology of OCD, body dysmorphic disorder, perinatal OCD, hoarding, trauma-related OCD, and new therapeutic approaches. Each lecture combines expert talks with panel discussions and audience Q&A, aiming to bridge research, clinical practice, and real-world experience. The events are open to members of the University, mental health professionals, and the wider public. 
