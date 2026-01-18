@@ -8,7 +8,7 @@ If you would like to promote your mental health related academic event relevant 
 
 ### Cambridge Mental Health Film Club
 Monday 9th of February 19:00 at Emmanuele College Lecture Theatre.   
-Organisers: Felix Clay (CPFT),  Barbara March (CPFT), Muzaffer Kaser (CPFT),  Lea Satala (Newnham)
+Organisers: Felix Clay (CPFT),  Barbara March (CPFT), Muzaffer Kaser (CPFT),  Lea Satala (Newnham)   
 Tickets can be accessed via [Eventbrite](www.tinyurl.com/larscambridge/). All donations go to CPFT’s charity Head to Toe.       
 Join us for a special screening of Lars and the Real Girl (2007), a heartfelt comedy-drama about loneliness, trauma and the power of compassion and community. The film will be introduced by Barbara March and a discussion withthe audience will follow the screening.    
 Anyone is welcome to attend.    
