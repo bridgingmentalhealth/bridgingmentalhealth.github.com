@@ -34,7 +34,7 @@ Across six events in 2026, the series will cover topics including the neurobiolo
 All lectures will be followed by a free drinks and dinner reception, offering an informal space for conversation and discussion.    
    
 ### PSY-PHI Reading Group
-Thursdays at 10–11am in the Department of History and Philosopyh of Science (Free School Lane), Board Room (1st floor).   
+Thursdays at 2-3 pm in the Department of History and Philosopyh of Science (Free School Lane), Board Room (1st floor).   
 Organisers: Scott Partington, Johanna Silva-Stüger, and Robert Taylor
 
 For more information, please see the [website](https://www.hps.cam.ac.uk/news-events/seminars-reading-groups/philosophy-medicine).
