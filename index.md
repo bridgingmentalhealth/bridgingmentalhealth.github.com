@@ -32,7 +32,7 @@ Each term, we host two events where researchers from different disciplines share
 </div>
 
 ## Logistics Manager
-<img src="/pictures/Parida Zoom.jpg" alt="image alt" width="200" height="200"> 
+<img src="/pictures/Parida Zoom.jpg" alt="image alt" width="200" height="200"><br> 
  <a href="https://www.linkedin.com/in/amlaan-parida-47024416a/"><strong>Amlaan Parida</strong></a>, 
       <em>ap2526@cam.ac.uk<em><br>   
 History and Philosophy of Science<br> 
