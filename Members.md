@@ -107,5 +107,5 @@ permalink: /members/
 
 
 
-If you are a researcher on Mental Health (broadly construed) and would like to be listed, please enter your details via this
+If you are a researcher on Mental Health (broadly construed) at the University of Cambridge and would like to be listed, please enter your details via this
 <a href="https://forms.gle/VsP4cMnh2SWxSjcq8" target="_blank">Google Form</a>.
