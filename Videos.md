@@ -1,6 +1,6 @@
 # Video Recordings of Past Talks   
 
-If you want to support us, please subscribe to our [Youtube Channel](https://www.youtube.com/@BridgingMentalHealthNetwork) and like and share the videos you enjoyed watching.
+To watch our latest talks and support our mission, please subscribe to our [Youtube Channel](https://www.youtube.com/@BridgingMentalHealthNetwork) and like and share our videos.
 
 ### Why Mental Health is Hard to Measure   
 Anna Alexandrova and Sebastian Rodriguez-Duque   
