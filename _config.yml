@@ -9,4 +9,5 @@ plugins:
 header_pages:
   - Events.md
   - Members.md
+  - Videos.md
   - External.md
