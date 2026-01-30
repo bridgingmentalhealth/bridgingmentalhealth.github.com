@@ -1,3 +1,9 @@
+---
+layout: page
+title: Videos
+permalink: /videos/
+---
+
 # Video Recordings of Past Talks   
 
 To watch our latest talks and support our mission, please subscribe to our [Youtube Channel](https://www.youtube.com/@BridgingMentalHealthNetwork) and like and share our videos.
