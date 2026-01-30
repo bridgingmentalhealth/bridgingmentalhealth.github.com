@@ -17,9 +17,9 @@ Anyone is welcome to attend.
 
 For more information on the film club, please see the [website](https://sites.google.com/view/psych-film-club/home?authuser=0).   
      
-*Save the dates:*   
-- Graveyard of the fireflies screening - week of March 9th with University of Cambridge Psychology Society with themes around psychological impacts on children in war-torn areas.   
-- Her screening - start of May 2025 presented by Lea at Newnham College, with themes around the appeal and risks of artificial intelligence in our digital age.   
+*In planning:*   
+- Graveyard of the Fireflies - start of March
+- Her screening - start of May   
    
 ### Orchard OCD Lecture Series
 The Orchard OCD Lecture Series is a public-facing programme of evening talks exploring obsessive–compulsive disorder (OCD) and related conditions from scientific, clinical, and lived-experience perspectives. Hosted at St John’s College, University of Cambridge, the series brings together leading researchers, clinicians, charity representatives, and individuals with lived experience to foster informed discussion, challenge misconceptions, and highlight emerging research and treatment avenues.    
