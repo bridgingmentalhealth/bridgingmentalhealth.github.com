@@ -11,7 +11,7 @@ Each term, we host two events where researchers from different disciplines share
 <div style="display: flex; gap: 40px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
     <img src="/pictures/tanaysq.jpg" alt="Tanay Katiyar" width="200" height="200">
-   [ <p><strong>Tanay Katiyar</strong>](https://sites.google.com/view/adigitaltanay/tanay-katiyar-home), <em>tk654@cam.ac.uk</em><br>
+   [ <p><strong>Tanay Katiyar</strong> ](https://sites.google.com/view/adigitaltanay/tanay-katiyar-home), <em>tk654@cam.ac.uk</em><br>
     MRC Cognition and Brain Sciences Unit<br>   
       Leverhulme Centre for Human Evolutionary Studies<br>   
       St. John's College<br>   
@@ -19,7 +19,7 @@ Each term, we host two events where researchers from different disciplines share
   </div>
   <div style="flex: 1; min-width: 300px;">
     <img src="/pictures/DSC06236.png" alt="Johanna Silva-Stüger" width="200" height="200">
-    [ <p><strong>Johanna Silva-Stüger</strong>](https://sites.google.com/view/adigitaltanay/tanay-katiyar-home), <em>js2918@cam.ac.uk</em><br>
+    [ <p><strong>Johanna Silva-Stüger</strong> ](https://sites.google.com/view/adigitaltanay/tanay-katiyar-home), <em>js2918@cam.ac.uk</em><br>
     History and Philosophy of Science<br>   
       Christ's College<br>   
       University of Cambridge</p>
