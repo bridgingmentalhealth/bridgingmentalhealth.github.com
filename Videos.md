@@ -22,4 +22,4 @@ Dr Kristen Syme
 
 ### Beyond Culture: Rethinking Anthropology and Mental Health
 Dr Mikkel Kenni Bruun   
-[![Mikkel Kenni Bruun Talk](https://img.youtube.com/vi/24TkTz67E_E/hqdefault.jpg)](https://www.youtube.com/watch?v=24TkTz67E_E)   
+[![Mikkel Kenni Bruun Talk](https://img.youtube.com/vi/24TkTz67E_E/hqdefault.jpg)](https://youtu.be/24TkTz67E_E?si=t4I86s6afjMuaY1m)   
