@@ -25,8 +25,9 @@ Dr Mikkel Kenni Bruun
 [![Mikkel Kenni Bruun Talk](https://img.youtube.com/vi/24TkTz67E_E/hqdefault.jpg)](https://youtu.be/24TkTz67E_E?si=t4I86s6afjMuaY1m)   
 
 ### What is Computational Psychiatry?
-Prof Camilla Nord
+Prof Camilla Nord   
 [![Camilla Nord Talk](https://img.youtube.com/vi/tICtV5B3dQU/hqdefault.jpg)](https://www.youtube.com/watch?v=tICtV5B3dQU)
 
 ### Transdiagnostic Approaches to Mental Health
-Prof Tim Dalgleish
+Prof Tim Dalgleish   
+[![Tim Dalgeish Talk](https://img.youtube.com/vi/yiKCclcYrSM/hqdefault.jpg)](https://www.youtube.com/watch?v=yiKCclcYrSM)
