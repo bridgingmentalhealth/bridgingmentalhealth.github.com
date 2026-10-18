@@ -13,12 +13,12 @@ All are welcome!
 Wednesdays 5 - 6 PM   
 
 **Location for the First Event on November 4th**
-Department of History and Philosophy of Science
-Free School Lane
-Seminar Room 1 (Ground floor, right hand side of the main entrance
-
+Department of History and Philosophy of Science  
+Free School Lane  
+Seminar Room 1 (Ground floor, right hand side of the main entrance  
+   
 Location for the later talks to be announced.
-
+   
 ![image alt](pictures/Academic Year 202627-2.png)
 
 
