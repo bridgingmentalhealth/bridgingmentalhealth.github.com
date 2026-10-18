@@ -17,7 +17,7 @@ Department of History and Philosophy of Science
 Free School Lane  
 Seminar Room 1 (Ground floor, right hand side of the main entrance  
 
-Sign up for the first event [here](https://forms.gle/w84iYXtd3T9UGnrZ8).    
+Sign up for the first event [here](https://forms.gle/2PYMxtD8n7SZ8aJy6). 
 (Signing up is not mandatory but recommended to guarantee you a seat.)  
    
 Location for the later talks to be announced.
