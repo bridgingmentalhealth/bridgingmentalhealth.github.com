@@ -9,10 +9,15 @@ This academic year, the network is  launching a series of six interdisciplinary 
 
 All are welcome!
 
-**Venue**   
-Wednesdays 5.30 - 6.30 PM   
-Lightfoot Room, Old Divinity School   
-St John's College, University of Cambridge
+**Time**   
+Wednesdays 5 - 6 PM   
+
+**Location for the First Event on November 4th**
+Department of History and Philosophy of Science
+Free School Lane
+Seminar Room 1 (Ground floor, right hand side of the main entrance
+
+Location for the later talks to be announced.
 
 ![image alt](pictures/Academic Year 202627-2.png)
 
