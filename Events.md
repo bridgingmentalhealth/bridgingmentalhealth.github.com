@@ -12,7 +12,7 @@ All are welcome!
 **Time**   
 Wednesdays 5 - 6 PM   
 
-**Location**
+**Location**  
 Department of History and Philosophy of Science  
 Free School Lane  
 Seminar Room 1 (Ground floor, right hand side of the main entrance)  
