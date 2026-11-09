@@ -12,12 +12,12 @@ All are welcome!
 **Time**   
 Wednesdays 5 - 6 PM   
 
-**Location for the First Event on November 4th**
+**Location**
 Department of History and Philosophy of Science  
 Free School Lane  
-Seminar Room 1 (Ground floor, right hand side of the main entrance  
+Seminar Room 1 (Ground floor, right hand side of the main entrance)  
 
-Sign up for the first event [here](https://forms.gle/2PYMxtD8n7SZ8aJy6). 
+Sign up for the second event [here](https://forms.gle/M2VycXK7duMvA2RL8). 
 (Signing up is not mandatory but recommended to guarantee you a seat.)  
    
 Location for the later talks to be announced.
