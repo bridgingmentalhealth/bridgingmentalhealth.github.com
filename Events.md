@@ -20,7 +20,6 @@ Seminar Room 1 (Ground floor, right hand side of the main entrance)
 Sign up for the second event [here](https://forms.gle/M2VycXK7duMvA2RL8). 
 (Signing up is not mandatory but recommended to guarantee you a seat.)  
    
-Location for the later talks to be announced.
    
 ![image alt](pictures/Academic Year 202627-2.png)
 
